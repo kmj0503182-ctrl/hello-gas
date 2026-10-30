@@ -1,0 +1,10 @@
+.clasp.json
+.clasprc.json
+.clasprc.json.*
+.env
+.env.*
+!.env.example
+node_modules/
+credentials.json
+token.json
+*.log
